@@ -1,4 +1,0 @@
-cat
-cat
-octocat
-__^_^__
